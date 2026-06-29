@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing Uber's 2025 ride data across 6 vehic
 
 ## 📊 Dashboard Overview
 
-![Dashboard Preview](dashboard_preview.png)
+!("D:\New folder\WhatsApp Image 2026-06-29 at 19.30.49.jpeg")
 
 ## 🔑 Key Metrics
 - **93K** Completed Bookings
